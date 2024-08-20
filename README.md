@@ -27,3 +27,14 @@ This project involves analyzing the Coronavirus (COVID-19) deaths dataset source
 </p> 
 
 
+
+
+
+
+**CERTIFICATIONS**
+1. SQL Associate certificate (Datacamp) [https://www.datacamp.com/certificate/SQA0015132160627]
+2. Google Data Analytics (Coursera) [https://coursera.org/share/f618ac38899c7982795316642448af4a]
+3. Google IT Support (Coursera) [https://coursera.org/share/8cf941f57a1006fda0f3d003dc7b41fd]
+   
+
+
